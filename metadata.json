@@ -1,0 +1,8 @@
+{
+  "name": "NOVA AI - Futuristic Android Assistant",
+  "description": "Futuristic Android AI assistant with dark neon aesthetics, natural Sinhala and English support, multimodal vision, creative studio for songs, Sinhala rap, stories, and prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
